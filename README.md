@@ -34,7 +34,7 @@ It is designed to automatically generate reports, summarize data, and provide in
 ---
 
 ## 📷 Report Preview
-(Add your screenshot here)
+(SS3.png)
 
 ---
 
